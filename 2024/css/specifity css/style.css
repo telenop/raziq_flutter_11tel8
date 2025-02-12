@@ -1,0 +1,26 @@
+ul.makanan {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+ul.cowotergantengxitel8 {
+    color: pink;
+    }
+    
+ul.tercantiq{
+    font-style: italic;
+    }
+ul {
+    font-weight:bold;
+    }
+
+ul.cowotergantengxitel8 li#favorit {
+    color: blue;
+}
+
+ul.makanan li#enak {
+    color: chartreuse;
+}
+
+ul.tercantiq li#pik {
+    font-size: small;
+}
